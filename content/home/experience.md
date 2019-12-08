@@ -18,27 +18,37 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Staff Research Engineer, Artificial Intelligence"
+  company = "IBM Research"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Bengaluru, India"
+  date_start = "2019-07-15"
   date_end = ""
+  description = """ * Understanding code semantics using machine learning. Part of IBM Research’s challenge on AI for code
+  * Accomplishing Natural Language Code Seach, by learning joint latent space for code and natural language (English). Improving retrieval accuracy, by novelly of using siamese networks. Construction a programming language agnostic framework
+  """
+ 
+
+[[experience]]
+  title = "Research Intern"
+  company = "IBM Research & Image Analysis and Biometric Lab - IIITD"
+  company_url = ""
+  location = "Bengaluru, India"
+  date_start = "2018-05-14"
+  date_end = "2018-12-31"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  * Developed IBM GAN-Toolkit for code-less authoring of GANs.  Formalized novel ‘abstractive’ view of GAN framework, which unifies various GANs. Unification allows users to commix different GAN components
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Undergraduate Researcher"
+  company = "Image Analysis and Biometric Lab - IIITD"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
+  location = "New Delhi, India"
+  date_start = "2018-01-01"
+  date_end = "2019-05-31"
+  description = """
+  * Established research statement on generating family (kin) face images for an individual
+  * Formalised a GAN framework with updated training and optimisation function to observe feature hierarchy during generation
+  """
 +++
