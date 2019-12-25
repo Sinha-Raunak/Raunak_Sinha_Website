@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "AuthorGAN: Improving GAN Reproducibility using a Modular GAN Framework"
+title: "AuthorGAN: Improving GAN Reproducibility using a Modular GAN Framework, NeurIPS 2019"
 authors: [R. Sinha, A. Sankaran, M. Vatsa, R. Singh]
 date: 2019-10-04T19:09:32+05:30
 doi: ""

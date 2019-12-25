@@ -4,3 +4,4 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/Sinha-Raunak/Sinha-Raunak.github.io.git
+	branch = master
