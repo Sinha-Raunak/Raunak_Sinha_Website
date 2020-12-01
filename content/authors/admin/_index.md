@@ -22,9 +22,10 @@ bio: I am interested in developing learning theory for computational sustainabil
 
 interests:
 - Machine Learning
-- Artificial Intelligence
 - Computer Vision
+- Artificial Intelligence
 - Natural Langauge Processing
+- Computational Sustainibility
 
 education:
   courses:
@@ -54,7 +55,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv2.pdf
+  link: files/cv_12_may.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -65,7 +66,9 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Hey! I am an engineer working on understanding programming language semantics using machine learning and natural language processing. I am keen on relating code semantics to human-understandable (natural) language semantics. 
+I am an ardent researcher interested in exploring and developing machine learning for computer vision, computational sustainability, and natural language understanding.
 
-I am interested in developing learning theory for computational sustainability, computer vision and natural language understanding.
+I am currently working on utilizing machine learning to jointly understand the semantics of programming languages and natural languages, making it easy to comprehend code. I am also working on recommending microservice partitions for a given piece of code for application modernization. 
+
+Previously I have worked on using machine learning to capture facial features to generate images of family members. I have also developed an open-source toolkit for freely experimenting and interacting with Generative Adversarial Networks in a code-less fashion. 
  
